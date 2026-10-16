@@ -150,7 +150,7 @@ function main()
     println("KOD START")
 
     # Tworzenie Hamiltonianu
-    L_x = 1000
+    L_x = 500
     L_y = 20
     L_z = 20
     t = 1.0
